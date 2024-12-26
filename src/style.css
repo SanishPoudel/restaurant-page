@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.name {
+  font-size: xx-large;
+}
+
+nav {
+  display: flex;
+  gap: 25px;
+}
