@@ -56,12 +56,13 @@ nav {
 }
 
 button {
+  color: white;
   background-color: purple;
   border: none;
   border-radius: 8px;
 }
 
 button:hover {
-  text-decoration: underline 5px rgb(2, 2, 112);
+  text-decoration: underline 5px white;
   cursor: pointer;
 }
